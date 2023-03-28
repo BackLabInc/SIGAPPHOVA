@@ -10,4 +10,8 @@
 
     <color name="hova_principal_color">#607d8b</color>
     <color name="hoca_title_color">#DD52565B</color>
+
+    <color name="gray_middle_1">#C2C2C2</color>
+
+    <color name="redError">#FF4343</color> <!-- Letras rojas -->
 </resources>
